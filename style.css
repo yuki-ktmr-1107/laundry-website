@@ -117,6 +117,9 @@ footer {
   img {
     width: 100%;
   }
+  .indoor{
+    height:300px;
+  }
   .washer{
     height:300px;
   }
